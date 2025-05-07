@@ -77,3 +77,9 @@ Most hosting platforms support connecting a custom domain.
     Update your DNS settings accordingly.
 
 Refer to your hosting provider's documentation for detailed steps.
+
+
+# Contributors
+
+1. [Khushi Rajput](https://github.com/Khushirajput123)  
+2. [Dhruv Kumar](https://github.com/dhruv-04)
